@@ -81,7 +81,7 @@ param.path.pic  = cellfun( @(x) sprintf('%s%s/',im_path , x),   param.listObj, '
 param.path.feat = cellfun( @(x) sprintf('%s%s/',data_path , x), param.listObj, 'UniformOutput', 0);
 
 if param.useBox
-    objectness_dir = [param.path.root, 'utils/objectness-release-v2.2/objectness-release-v2.2/'];
+    objectness_dir = [param.path.root, 'utils/objectness-release-v2.2/'];
     addpath(genpath(objectness_dir));
 end
 

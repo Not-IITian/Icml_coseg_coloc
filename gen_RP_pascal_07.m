@@ -77,5 +77,6 @@ for  i =1:12
     save_box_file = [ 'pascal_07_RP_30/',cc, '.mat'];
     Region_props = param.boxes;
     save(save_box_file,'Region_props')
+    clear
     
 end
