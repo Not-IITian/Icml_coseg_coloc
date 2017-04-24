@@ -1,0 +1,13 @@
+Motorbike_Left .8 .001 3 39 .005 .1 .005
+Motorbike_Right .8 .001 3 34 .005 .1 .005
+Bicycle_Left .8 .001 3 48 .005 .1 .001
+Bicycle_Right .8 .001 3 50 .005 .1 .001
+Aeroplane_Left .8 .001 3 43 .005 .1 .005
+Aeroplane_Right .8 .001 3 39 .005 .1 .001
+Horse_Left .8 .1 3 48 .005 .1 .005
+Horse_Right .8 .1 3 46 .005 .1 .005
+Boat_Left .8 .001 3 44 .005 .1 .005
+Boat_Right .8 .001 3 43 .005 .1 .001
+Bus_Left .8 .001 3 21 .005 .1 .001
+Bus_Right .8 .001 3 23 .005 .1 .001
+
