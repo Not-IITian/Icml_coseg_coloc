@@ -13,7 +13,7 @@ for  i =1:12
     C_data = textscan(fileID,'%s %f %f %f %f %f %f %f %f');
     fclose(fileID);    
 %%%% PARAMETERS
-    param.no_scaling =1; % no scaling of image
+    no_scaling =1; % no scaling of image
     param.MSRC = 0; param.Davis = 0;param.Utube = 0;
     dataset = double(C_data{4}(i));        
     if dataset ==1 % this is MSRC
