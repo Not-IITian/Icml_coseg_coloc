@@ -1,9 +1,4 @@
 # Icml_coseg_coloc
 
-This is source code (uncleaned) of the recent Icml submission. I hope to clean and add documentation in the coming weeks. This code builds on the source code of Armand Joulin Cosegmenation work.
-
-RUN OPTIONS:
-typeFeat : 'sift'
-typeKernel :'chi2' 
-
+This is the source code (uncleaned) of a recent paper submission. Please wait for couple of weeks if you happen to come across this code. Using this code in current form is not recommended as it is a deadline code.
 
